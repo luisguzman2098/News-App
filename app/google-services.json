@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605101441777",
+    "project_id": "newsapp-f7f90",
+    "storage_bucket": "newsapp-f7f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605101441777:android:f60285fe19162de08a9f50",
+        "android_client_info": {
+          "package_name": "com.luisguzman.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605101441777-va1ajhh8ucdac08itfs7doan96cp5vrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF1okCaOH7wql79yTvgYW8qR2sBz71MOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605101441777-va1ajhh8ucdac08itfs7doan96cp5vrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
